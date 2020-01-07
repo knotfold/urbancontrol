@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>904049746574-n0acrgnips6sehtm875flmdebcjr4h5g.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.904049746574-n0acrgnips6sehtm875flmdebcjr4h5g</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBQ3FyNBY00KoFzC-oSOKDFzH-UHzubR7E</string>
+	<key>GCM_SENDER_ID</key>
+	<string>904049746574</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.gudtech.urbancontrol</string>
+	<key>PROJECT_ID</key>
+	<string>urbancontrol-d525f</string>
+	<key>STORAGE_BUCKET</key>
+	<string>urbancontrol-d525f.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:904049746574:ios:515224c383e4e60bb05fdf</string>
+	<key>DATABASE_URL</key>
+	<string>https://urbancontrol-d525f.firebaseio.com</string>
+</dict>
+</plist>
